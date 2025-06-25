@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="center">
-  <img width="200" height="200" src="https://ibb.co/1J2gw9dC" alt="my banner">
+  <img width="200" height="200" src="https://i.ibb.co/TqhfFHbQ/Hand-coding-Customizable-Flat-Illustrations-Rafiki-Style.jpg" alt="my banner">
 </p>
 
 <h3 align="left">Connect with me:</h3>

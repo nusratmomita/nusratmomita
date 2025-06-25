@@ -5,7 +5,7 @@
   <img width="800" height="300" src="https://i.ibb.co/TqhfFHbQ/Hand-coding-Customizable-Flat-Illustrations-Rafiki-Style.jpg" alt="my banner">
 </p>
 
-<h1>I am currently on my journey to learn web development. I have built projects that mainly focus on user experience. To know more about development, I am also exporling Backend technologies. I also engaged myself with DSA and problem-solving. </h1>
+<h3>I am currently on my journey to learn web development. I have built projects that mainly focus on user experience. To know more about development, I am also exporling Backend technologies. I also engaged myself with DSA and problem-solving. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

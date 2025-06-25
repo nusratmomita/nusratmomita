@@ -1,10 +1,9 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://ibb.co/1J2gw9dC" alt=”my banner”>
-
-</p>
 <h1 align="center">Hi 👋, I'm Nushrath Momita</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<p align="center">
+  <img width="200" height="200" src="https://ibb.co/1J2gw9dC" alt="my banner">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="300" src="https://i.ibb.co/TqhfFHbQ/Hand-coding-Customizable-Flat-Illustrations-Rafiki-Style.jpg" alt="my banner">
+  <img width="300" height="300" src="https://i.ibb.co/TqhfFHbQ/Hand-coding-Customizable-Flat-Illustrations-Rafiki-Style.jpg" alt="my banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Nushrath Momita</h1>

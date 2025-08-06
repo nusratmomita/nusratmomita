@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nushrath Momita</h1>
-<h3 align="center">I am a passionate frontend developer.</h3>
+<h3 align="center">I am a passionate full-stack developer.</h3>
 
-<h3>📝 I am currently on my journey to learn web development. I have built projects that mainly focus on user experience. To know more about development, I am also exporling Backend technologies. I also engaged myself with DSA and problem-solving. </h3>
+<h3>📝 I am currently on my journey to learn web development. I have built projects that mainly focus on user experience. To know more about development, I am also exploring Backend technologies. I also engaged myself with DSA and problem-solving. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

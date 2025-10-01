@@ -16,9 +16,9 @@
 
 <h3>I am currently working on polishing my skills. Currently I am: </h3>
 <ul>
-  <li>Building my profile to showcase my skills.</li>
-  <li>Working on a full-stack project named "Jatri", which is a car rental side, where I am implementing some Map and Booking-related features.</li>
-  <li>Working on my skills in App Development with Flutter, making UI designs and adding routing for single-page interactions.</li>
+  <li>Building a group project named Synchro with Nexh>js and MongoDB.</li>
+  <li>Working on a full-stack project named "Aroggo", which is an e-commerce medical site, where I am improving the current UI and adding extra features.</li>
+  <li>Currently I am also exploring Next.Js ti upgrade my skills in web development.</li>
 </ul>
 
 <br/>

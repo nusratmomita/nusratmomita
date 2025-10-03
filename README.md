@@ -16,7 +16,7 @@
 
 <h3>I am currently working on polishing my skills. Currently I am: </h3>
 <ul>
-  <li>Building a group project named Synchro with Nexh>js and MongoDB.</li>
+  <li>Building a group project named Synchro with Next.js and MongoDB.</li>
   <li>Working on a full-stack project named "Aroggo", which is an e-commerce medical site, where I am improving the current UI and adding extra features.</li>
   <li>Currently, I am also exploring Next.js to upgrade my skills in web development.</li>
 </ul>

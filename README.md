@@ -36,7 +36,7 @@ I'm always open to discussions, collaborations, or any exciting opportunities! F
 Here's a quick look at the languages and technologies I work with:
 
 **Languages**:
-- C, C++, Java, Python, JavaScript, PHP
+- C, C++, Java, Python, JavaScript
 
 **Frontend**:
 - HTML5, CSS3, JavaScript, React.js

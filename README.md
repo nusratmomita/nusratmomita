@@ -9,7 +9,7 @@
 
 ### 📝 About Me
 
-I am currently on my journey to mastering web development, with a strong focus on **user experience**. While building front-end projects, I'm also diving into **backend technologies** and solving problems through **Data Structures & Algorithms (DSA)**. 
+I am currently on my journey to mastering web development, with a strong focus on **user experience**. While building front-end projects, I'm also diving into **backend technologies** and improving **UI design**. 
 
 Currently, I'm focused on improving my full-stack development skills.
 
@@ -17,7 +17,7 @@ Currently, I'm focused on improving my full-stack development skills.
 
 ### 🔧 What I'm Working On
 
-- **Synchro**: A collaborative group project built with **Next.js** and **MongoDB**.
+- **Mitro**: A student study toolkit that helps users to manage their study material easily and it is being build with **MERN stack** and **Google Gemini**.
 - **Aroggo**: An e-commerce medical site where I'm improving the **UI** and adding new features.
 - **Next.js Exploration**: Learning and upgrading my skills in **Next.js** for better web development practices.
 

@@ -19,8 +19,7 @@ Currently, I'm focused on improving my full-stack development skills.
 
 - **Mitro**: A student study toolkit that helps users to manage their study material easily and it is being build with **MERN stack** and **Google Gemini**.
 - **Aroggo**: An e-commerce medical site where I'm improving the **UI** and adding new features.
-- **Next.js Exploration**: Learning and upgrading my skills in **Next.js** for better web development practices.
-
+- **UI/UX Adapting**: Learning and adapting user friendly UI and working on UX to understand user perspactive.
 ---
 
 ### 🌐 Connect with Me

@@ -9,7 +9,7 @@
 
 ### 📝 About Me
 
-I am currently on my journey to mastering web development, with a strong focus on **user experience**. While building front-end projects, I'm also diving into **backend technologies** and improving **UI design**. 
+I am currently on my journey to mastering web development, with a strong focus on **user experience**. While building front-end projects, I'm also diving into **backend technologies** and improving **UIUX design quality**. 
 
 Currently, I'm focused on improving my full-stack development skills.
 

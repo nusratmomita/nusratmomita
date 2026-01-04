@@ -1,57 +1,24 @@
-<p align="center">
-  <img width="300" height="300" src="https://i.ibb.co/TqhfFHbQ/Hand-coding-Customizable-Flat-Illustrations-Rafiki-Style.jpg" alt="my banner">
-</p>
+# 💫 About Me:
+I am currently on my journey to mastering web development, with a strong focus on user experience. While building front-end projects, I'm also diving into backend technologies and improving UIUX design quality.<br><br>Currently, I'm focused on improving my full-stack development skills.
 
-<h1 align="center">Hi 👋, I'm Nushrath Momita</h1>
-<h3 align="center">A Passionate Full-Stack Developer</h3>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nushrathmomita/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nushrathhussain961@gmail.com) 
 
-### 📝 About Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nusratmomita&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nusratmomita&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nusratmomita&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I am currently on my journey to mastering web development, with a strong focus on **user experience**. While building front-end projects, I'm also diving into **backend technologies** and improving **UIUX design quality**. 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Currently, I'm focused on improving my full-stack development skills.
-
----
-
-### 🔧 What I'm Working On
-
-- **Mitro**: A student study toolkit that helps users to manage their study material easily and it is being build with **MERN stack** and **Google Gemini**.
-- **Aroggo**: An e-commerce medical site where I'm improving the **UI** and adding new features.
-- **UI/UX Adapting**: Learning and adapting user friendly UI and working on UX to understand user perspactive.
----
-
-### 🌐 Connect with Me
-
-I'm always open to discussions, collaborations, or any exciting opportunities! Feel free to reach out via:
-
-- [LinkedIn](https://linkedin.com/in/nushrathmomita)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nusratmomita&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=nusratmomita&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### ⚙️ Languages & Tools
-
-Here's a quick look at the languages and technologies I work with:
-
-**Languages**:
-- C, C++, Java, Python, JavaScript
-
-**Frontend**:
-- HTML5, CSS3, JavaScript, React.js
-
-**Backend**:
-- Node.js, MongoDB, MySQL, Firebase
-
----
-
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nusratmomita&show_icons=true&locale=en&layout=compact)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nusratmomita&)
-
----
-
-### 🚀 Let's Build Something Amazing Together!
-
-If you are interested in my projects or just want to chat about web development, feel free to connect! Let's make the web a better place together. 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

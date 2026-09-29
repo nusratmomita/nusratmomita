@@ -92,8 +92,8 @@ Jatri is a modern car rental platform that enables users to seamlessly discover,
 I'm open to internships, junior roles, and collaborations. If you'd like to talk about web development, or you have an opportunity in mind, reach out:
 
 - 💼 [LinkedIn](https://linkedin.com/in/nushrathmomita)
-- 📧 [your.email@example.com](mailto:your.email@example.com)
-- 🌐 [Portfolio](https://your-portfolio.com)
+- 📧 [your.email@example.com](mailto:nushrathhussain961@gmail.com)
+- 🌐 [Portfolio](https://nushrathmomita.netlify.app/)
 
 <p align="center">
   <i>Thanks for stopping by! ⭐</i>

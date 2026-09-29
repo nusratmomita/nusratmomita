@@ -14,6 +14,9 @@
   <a href="https://linkedin.com/in/nushrathmomita"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:nushrathhussain961@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://nushrathmomita.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nusratmomita&label=Profile+views&color=2F81F7&style=for-the-badge" alt="Profile views">
+  </p>
 </p>
 
 ---
@@ -33,19 +36,19 @@ I'm a junior full-stack developer who cares about how software *feels* to use. I
 
 ## 🚀 Featured Projects
 
-### 📚 Mitro: Student Study Toolkit
-A study companion that helps students organize and manage their learning materials in one place, with AI-powered assistance from Google Gemini.
-
-- **Stack:** React, Node.js, Express, MongoDB, Google Gemini API
-- **Status:** In development
-- 🔗 [Live Demo](https://your-mitro-demo-link.com) · [Source Code](https://github.com/nusratmomita/your-mitro-repo)
-
 ### 💊 Aroggo: Medical E-commerce Platform
 An online medical store. I'm currently redesigning the UI for a better shopping experience and adding new features.
 
-- **Stack:** React, Tailwind CSS, Firebase
+- **Stack:** React, Tailwind CSS, ExpressJS, MongoDB, Firebase, Role-based Authentication
 - **Status:** Ongoing improvements
-- 🔗 [Live Demo](https://your-aroggo-demo-link.com) · [Source Code](https://github.com/nusratmomita/your-aroggo-repo)
+- 🔗 [Live Demo](https://aroggo-e998e.web.app/) · [Source Code](https://github.com/nusratmomita/Aroggo_Client)
+
+### 🚗 Jatri: Digital Car Rental Platform
+Jatri is a modern car rental platform that enables users to seamlessly discover, book, and manage vehicle rentals with an intuitive interface..
+
+- **Stack:** React, Tailwind CSS, ExpressJS, MongoDB, Firebase
+- **Status:** Ongoing UI and Feature improvements
+- 🔗 [Live Demo](https://jatri-9cc51.web.app/) · [Source Code](https://github.com/nusratmomita/Jatri_Client)
 
 > 💡 More projects are on my [repositories page](https://github.com/nusratmomita?tab=repositories).
 

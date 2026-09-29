@@ -1,61 +1,97 @@
 <p align="center">
-  <img width="300" height="300" src="https://i.ibb.co/TqhfFHbQ/Hand-coding-Customizable-Flat-Illustrations-Rafiki-Style.jpg" alt="my banner">
+  <img width="260" src="https://i.ibb.co/TqhfFHbQ/Hand-coding-Customizable-Flat-Illustrations-Rafiki-Style.jpg" alt="Illustration of a developer coding">
 </p>
 
-<h1 align="center">Hi 👋, I'm Nushrath Momita</h1>
-<h3 align="center">A Passionate Full-Stack Developer</h3>
+<h1 align="center">Nushrath Momita</h1>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+(MERN);Building+user-friendly+web+experiences;Open+to+internships+and+junior+roles" alt="Typing animation">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/nushrathmomita"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+</p>
 
 ---
 
-### 📝 About Me
+## 👩‍💻 About Me
 
-I am currently on my journey to mastering web development, with a strong focus on **user experience**. While building front-end projects, I'm also diving into **backend technologies** and improving **UIUX design quality**. 
+I'm a junior full-stack developer who cares about how software *feels* to use. I build responsive front ends with React and Tailwind, back them with Node.js and MongoDB, and pay close attention to UI/UX so the products I ship are easy to understand and pleasant to use.
 
-Currently, I'm focused on improving my full-stack development skills.
+**I'm currently looking for an internship or junior full-stack role.** If you're hiring, I'd love to talk.
 
----
-
-### 🔧 What I'm Working On
-
-- **Mitro**: A student study toolkit that helps users to manage their study material easily and it is being build with **MERN stack** and **Google Gemini**.
-- **Aroggo**: An e-commerce medical site where I'm improving the **UI** and adding new features.
-- **UI/UX Adapting**: Learning and adapting user friendly UI and working on UX to understand user perspactive.
----
-
-### 🌐 Connect with Me
-
-I'm always open to discussions, collaborations, or any exciting opportunities! Feel free to reach out via:
-
-- [LinkedIn](https://linkedin.com/in/nushrathmomita)
+- 🔭 Building full-stack apps with the MERN stack
+- 🎨 Improving my UI/UX skills by designing from the user's perspective
+- 🤖 Exploring AI integration with the Google Gemini API
+- 📫 Best way to reach me: [LinkedIn](https://linkedin.com/in/nushrathmomita) or email
 
 ---
 
-### ⚙️ Languages & Tools
+## 🚀 Featured Projects
 
-Here's a quick look at the languages and technologies I work with:
+### 📚 Mitro: Student Study Toolkit
+A study companion that helps students organize and manage their learning materials in one place, with AI-powered assistance from Google Gemini.
 
-**Languages**:
-- C, C++, Java, Python, JavaScript
+- **Stack:** React, Node.js, Express, MongoDB, Google Gemini API
+- **Status:** In development
+- 🔗 [Live Demo](https://your-mitro-demo-link.com) · [Source Code](https://github.com/nusratmomita/your-mitro-repo)
 
-**Frontend**:
-- HTML5, CSS3, TailwindCSS, Bootstrap, JavaScript, React.js, Redux
+### 💊 Aroggo: Medical E-commerce Platform
+An online medical store. I'm currently redesigning the UI for a better shopping experience and adding new features.
 
-**Backend**:
-- Node.js, MongoDB, MySQL, Firebase
+- **Stack:** React, Tailwind CSS, Firebase
+- **Status:** Ongoing improvements
+- 🔗 [Live Demo](https://your-aroggo-demo-link.com) · [Source Code](https://github.com/nusratmomita/your-aroggo-repo)
 
----
-
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nusratmomita&show_icons=true&locale=en&layout=compact)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nusratmomita&)
+> 💡 More projects are on my [repositories page](https://github.com/nusratmomita?tab=repositories).
 
 ---
 
-### 🚀 Let's Build Something Amazing Together!
+## 🛠️ Tech Stack
 
-If you are interested in my projects or just want to chat about web development, feel free to connect! Let's make the web a better place together. 😊
+**Languages**
 
+![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=py) ![JavaScript](https://skillicons.dev/icons?i=js)
 
+**Frontend**
 
+![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux)
 
+**Backend & Databases**
+
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Firebase](https://skillicons.dev/icons?i=firebase)
+
+**Tools**
+
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nusratmomita&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusratmomita&layout=compact&hide_border=true&theme=default" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nusratmomita&hide_border=true" alt="GitHub streak">
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to internships, junior roles, and collaborations. If you'd like to talk about web development, or you have an opportunity in mind, reach out:
+
+- 💼 [LinkedIn](https://linkedin.com/in/nushrathmomita)
+- 📧 [your.email@example.com](mailto:your.email@example.com)
+- 🌐 [Portfolio](https://your-portfolio.com)
+
+<p align="center">
+  <i>Thanks for stopping by! ⭐</i>
+</p>

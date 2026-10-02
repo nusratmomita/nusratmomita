@@ -40,7 +40,7 @@ I'm a junior full-stack developer who cares about how software *feels* to use. I
 An online medical store. I'm currently redesigning the UI for a better shopping experience and adding new features.
 
 - **Stack:** React, Tailwind CSS, ExpressJS, MongoDB, Firebase, Role-based Authentication
-- **Status:** Ongoing improvements
+- **Status:** Deployed
 - 🔗 [Live Demo](https://aroggo-e998e.web.app/) · [Source Code](https://github.com/nusratmomita/Aroggo_Client)
 
 ### 🚗 Jatri: Digital Car Rental Platform

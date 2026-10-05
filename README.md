@@ -30,7 +30,7 @@ I'm a junior full-stack developer who cares about how software *feels* to use. I
 - 🔭 Building full-stack apps with the MERN stack
 - 🎨 Improving my UI/UX skills by designing from the user's perspective
 - 🤖 Exploring AI integration with the Google Gemini API
-- 📫 Best way to reach me: [LinkedIn](https://linkedin.com/in/nushrathmomita) or email
+- 📫 Best way to reach me: [LinkedIn](https://linkedin.com/in/nushrathmomita) or [Email Me](mailto:nushrathhussain961@gmail.com)
 
 ---
 
@@ -44,7 +44,7 @@ An online medical store. I'm currently redesigning the UI for a better shopping 
 - 🔗 [Live Demo](https://aroggo-e998e.web.app/) · [Source Code](https://github.com/nusratmomita/Aroggo_Client)
 
 ### 🚗 Jatri: Digital Car Rental Platform
-Jatri is a modern car rental platform that enables users to seamlessly discover, book, and manage vehicle rentals with an intuitive interface..
+Jatri is a modern car rental platform that enables users to seamlessly discover, book, and manage vehicle rentals with an intuitive interface.
 
 - **Stack:** React, Tailwind CSS, ExpressJS, MongoDB, Firebase
 - **Status:** Ongoing UI and Feature improvements

@@ -77,7 +77,7 @@ Jatri is a modern car rental platform that enables users to seamlessly discover,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nusratmomita&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=nusratmomita&show_icons=true&hide_border=true&theme=default" alt="GitHub stats"> -->
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusratmomita&layout=compact&hide_border=true&theme=default" alt="Top languages">
 </p>
 
